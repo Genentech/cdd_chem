@@ -1,0 +1,49 @@
+# requirements to lint/test/build package
+name:
+channels:
+ - defaults
+ - anaconda
+ - conda-forge
+ - openeye
+ - https://repository.intranet.roche.com/artifactory/api/conda/smdd-conda-local/dev
+ - https://repository.intranet.roche.com/artifactory/api/conda/smdd-conda-local/prd
+dependencies:
+ # general
+ - python=3.9
+ - autopep8>=1.5.7
+ - conda-build>=3.21.4
+ - cookiecutter>=1.7.2
+ - cruft==2.9.0
+ - distro==1.5.0
+ - flake8>=3.9.2
+ - invoke>=1.6.0
+ - m2r>=0.2.1
+ - mistune==0.8.4
+ - numpy>=1.19.1
+ - mypy>=0.910
+ - mypy_extensions>=0.4.3
+ - openeye-toolkits>=2022.1.1
+ - pep8-naming>=0.12.1
+ - pip>=21.2.4
+ - pycodestyle>=2.7.0
+ - pylint>=2.10.2
+ - pytest>=6.2.5
+ - pytest-cov>=2.12.1
+ - pytest-datadir>=1.3.1
+ - pytest-runner>=5.3.1
+ - rdkit>=2022.09.1
+ - scripttest>=1.3
+ - Sphinx>=4.1.2
+ - sphinx-autodoc-typehints>=1.12.0
+ - sphinx_rtd_theme>=1.0.0
+ - types-setuptools>=57.0.2
+ - twine>=3.4.2
+ # include pyarrow for testing
+ - pyarrow
+ # CDD packages
+ - pip: # packages not available from conda channels
+   - pytest-check==1.0.4
+   - types-PyYAML
+   - hashsum
+   # self install current Python package
+   - -e .

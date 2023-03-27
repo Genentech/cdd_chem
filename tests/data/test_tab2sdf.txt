@@ -1,0 +1,3 @@
+structure	name	HA	TPSA	MW
+c1ccccc1	benzene	6		78
+Cc1ccccc1	methyl-benzene	7		92

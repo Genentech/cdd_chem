@@ -1,0 +1,506 @@
+
+  -OEChem-03272313112D
+
+  3  2  0     0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.8660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+> <AliphaticRings>
+0
+
+> <AromaticFraction>
+0
+
+> <AromaticRings>
+0
+
+> <c_pKa>
+
+> <c_pKa_MA>
+
+> <c_pKa_MA_ID>
+
+> <c_pKa_MB>
+
+> <c_pKa_MB_ID>
+
+> <CarboAliphaticRings>
+0
+
+> <CarboAromaticFraction>
+0.0
+
+> <CarboAromaticRings>
+0
+
+> <cgLogD7.4>
+0.63
+
+> <cgLogD7.4_ci_95>
+0.78
+
+> <cgLogD7.4_std>
+0.4
+
+> <cgLogD7.4_version>
+cgLogD_GatedGraphConv_20221012
+
+> <cgLogP>
+0.63
+
+> <cgLogP_version>
+cgLogD_GatedGraphConv_20221012
+
+> <Charge>
+0
+
+> <cIC50atLE0.3>
+220987.31056
+
+> <cKinSol_category>
+N
+
+> <cKinSol_err>
+
+> <cKinSol_log>
+0.09
+
+> <cKinSol_log_StDev>
+0.4
+
+> <cKinSol_prob>
+0.001
+
+> <cKinSol_uM>
+1.2
+
+> <cKinSol_version>
+KinSol_log_XRT_20221101
+
+> <cLogD2.0>
+0.1
+
+> <cLogD6.5>
+0.1
+
+> <cLogD7.4>
+0.1
+
+> <cLogD9.0>
+0.1
+
+> <cLogP>
+0.1
+
+> <cMR>
+1.26
+
+> <CNS_MPO_cLogD>
+1.00
+
+> <CNS_MPO_cLogP>
+1.00
+
+> <CNS_MPO_HBD>
+0.83
+
+> <CNS_MPO_MW>
+1.00
+
+> <CNS_MPO_pKa>
+1.00
+
+> <CNS_MPO_score>
+4.84
+
+> <CNS_MPO_TPSA>
+0.01
+
+> <H_polar>
+1
+
+> <Heavy_Atoms>
+3
+
+> <HeteroAliphaticRings>
+0
+
+> <HeteroAromaticRings>
+0
+
+> <MoKa.IEP>
+11
+
+> <MW>
+46.07
+
+> <N+O>
+1
+
+> <NH+OH>
+1
+
+> <num_pKas>
+
+> <pKa_atom_num>
+
+> <Rings>
+0
+
+> <RO5>
+0
+
+> <RotBonds>
+0
+
+> <Solubility_Index>
+0.6
+
+> <TPSA>
+20
+
+> <type_c_pKa_std_qp>
+
+$$$$
+
+  -OEChem-03272313112D
+
+  3  2  0     0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.8660    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+> <AliphaticRings>
+0
+
+> <AromaticFraction>
+0
+
+> <AromaticRings>
+0
+
+> <c_pKa>
+
+> <c_pKa_MA>
+
+> <c_pKa_MA_ID>
+
+> <c_pKa_MB>
+
+> <c_pKa_MB_ID>
+
+> <CarboAliphaticRings>
+0
+
+> <CarboAromaticFraction>
+0.0
+
+> <CarboAromaticRings>
+0
+
+> <cgLogD7.4>
+-1.1
+
+> <cgLogD7.4_ci_95>
+1.0
+
+> <cgLogD7.4_std>
+0.51
+
+> <cgLogD7.4_version>
+cgLogD_GatedGraphConv_20221012
+
+> <cgLogP>
+1.9
+
+> <cgLogP_version>
+cgLogD_GatedGraphConv_20221012
+
+> <Charge>
+1
+
+> <cIC50atLE0.3>
+220987.31056
+
+> <cKinSol_category>
+N
+
+> <cKinSol_err>
+
+> <cKinSol_log>
+0.37
+
+> <cKinSol_log_StDev>
+0.8
+
+> <cKinSol_prob>
+0.13
+
+> <cKinSol_uM>
+2.3
+
+> <cKinSol_version>
+KinSol_log_XRT_20221101
+
+> <cLogD2.0>
+-3.7
+
+> <cLogD6.5>
+-3.6
+
+> <cLogD7.4>
+-3.2
+
+> <cLogD9.0>
+-1.8
+
+> <cLogP>
+-0.25
+
+> <cMR>
+1.47
+
+> <CNS_MPO_cLogD>
+1.00
+
+> <CNS_MPO_cLogP>
+1.00
+
+> <CNS_MPO_HBD>
+0.50
+
+> <CNS_MPO_MW>
+1.00
+
+> <CNS_MPO_pKa>
+1.00
+
+> <CNS_MPO_score>
+4.80
+
+> <CNS_MPO_TPSA>
+0.30
+
+> <H_polar>
+3
+
+> <Heavy_Atoms>
+3
+
+> <HeteroAliphaticRings>
+0
+
+> <HeteroAromaticRings>
+0
+
+> <MoKa.IEP>
+14
+
+> <MW>
+45.08
+
+> <N+O>
+1
+
+> <NH+OH>
+2
+
+> <num_pKas>
+
+> <pKa_atom_num>
+
+> <Rings>
+0
+
+> <RO5>
+0
+
+> <RotBonds>
+0
+
+> <Solubility_Index>
+-1.1
+
+> <TPSA>
+26
+
+> <type_c_pKa_std_qp>
+
+$$$$
+
+  -OEChem-03272313112D
+
+  5  5  0     0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0015    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3133    0.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5008    1.5428    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3065    0.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <AliphaticRings>
+0
+
+> <AromaticFraction>
+1
+
+> <AromaticRings>
+1
+
+> <c_pKa>
+
+> <c_pKa_MA>
+
+> <c_pKa_MA_ID>
+
+> <c_pKa_MB>
+
+> <c_pKa_MB_ID>
+
+> <CarboAliphaticRings>
+0
+
+> <CarboAromaticFraction>
+0.8
+
+> <CarboAromaticRings>
+0
+
+> <cgLogD7.4>
+1.0
+
+> <cgLogD7.4_ci_95>
+1.6
+
+> <cgLogD7.4_std>
+0.81
+
+> <cgLogD7.4_version>
+cgLogD_GatedGraphConv_20221012
+
+> <cgLogP>
+1.0
+
+> <cgLogP_version>
+cgLogD_GatedGraphConv_20221012
+
+> <Charge>
+0
+
+> <cIC50atLE0.3>
+80775.3585
+
+> <cKinSol_category>
+N
+
+> <cKinSol_err>
+
+> <cKinSol_log>
+0.88
+
+> <cKinSol_log_StDev>
+0.95
+
+> <cKinSol_prob>
+0.34
+
+> <cKinSol_uM>
+7.7
+
+> <cKinSol_version>
+KinSol_log_XRT_20221101
+
+> <cLogD2.0>
+0.91
+
+> <cLogD6.5>
+0.91
+
+> <cLogD7.4>
+0.91
+
+> <cLogD9.0>
+0.91
+
+> <cLogP>
+0.91
+
+> <cMR>
+2.12
+
+> <CNS_MPO_cLogD>
+1.00
+
+> <CNS_MPO_cLogP>
+1.00
+
+> <CNS_MPO_HBD>
+0.83
+
+> <CNS_MPO_MW>
+1.00
+
+> <CNS_MPO_pKa>
+1.00
+
+> <CNS_MPO_score>
+4.83
+
+> <CNS_MPO_TPSA>
+0.00
+
+> <H_polar>
+1
+
+> <Heavy_Atoms>
+5
+
+> <HeteroAliphaticRings>
+0
+
+> <HeteroAromaticRings>
+1
+
+> <MoKa.IEP>
+11
+
+> <MW>
+67.09
+
+> <N+O>
+1
+
+> <NH+OH>
+1
+
+> <num_pKas>
+
+> <pKa_atom_num>
+
+> <Rings>
+1
+
+> <RO5>
+0
+
+> <RotBonds>
+0
+
+> <Solubility_Index>
+2.0
+
+> <TPSA>
+15
+
+> <type_c_pKa_std_qp>
+
+$$$$

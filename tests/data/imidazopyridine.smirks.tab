@@ -1,0 +1,5 @@
+# scaffold.rgExtraction (last updated 12/05/2018)	 
+# R-Groups cf scaffold of interest	 
+# SMIRKS	Name
+[O:4]=[C:3](N[C;H2])c1[n:2][c:1]2[cH:8][cH:9][c:7](N([C&H2,#1:11])[C,S:5]=[O:6])cn2[cH:10]1>>[C;H2][U+].[O:4]=[C:3](N[U+])c3[n:2][c:1]4[cH:8][cH:9][c:7](N([U+2])[U+3])cn4[cH:10]3.[O:6]=[C,S:5][U+2].[C&H2,#1:11][U+3]	imidazopyridine
+
